@@ -1,0 +1,19 @@
+{
+  "name": "mtb-events-testing",
+  "version": "1.0.0",
+  "description": "JSON object scanning with conditions",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "ts-node index.ts",
+    "build": "tsc"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0",
+    "ts-node": "^10.9.0"
+  }
+}

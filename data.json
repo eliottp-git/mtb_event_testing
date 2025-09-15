@@ -1,0 +1,45 @@
+{
+  "ecommerce": {
+    "currency": "EUR",
+    "user_status": "not logged",
+    "items": [
+      {
+        "item_id": "MB128211",
+        "item_name": "2 Kugelschreiberminen, Mystery Black (M)",
+        "item_brand": "mtb",
+        "currency": "EUR",
+        "item_size": "M = Medium",
+        "item_material_color": "Mystery Black",
+        "item_reference": "MB1282",
+        "item_engraved": false,
+        "item_embossed": false,
+        "item_personalized": false,
+        "item_available": "available",
+        "quantity": 1,
+        "price": 20,
+        "item_category": "Kugelschreiber",
+        "item_variant": "Mystery Black",
+        "item_collection": "Kugelschreiber",
+        "item_line": "N/A",
+        "item_vertical": "N/A",
+        "item_sellable": "N/A",
+        "item_material_case": "N/A",
+        "item_material_jewelry": "N/A",
+        "item_material_strap": "N/A",
+        "item_material_leather": "N/A",
+        "item_special_edition": false,
+        "item_dial": "N/A",
+        "item_adjusted": "N/A",
+        "item_sub_collection": "N/A",
+        "item_list_name": "Checkout Funnel:  - /on/demandware.store/Sites-MontblancROW-Site/de_DE/Cart-Show",
+        "item_list_id": "N/A",
+        "index": "N/A"
+      }
+    ]
+  },
+  "name": "os.Checkout Funnel steps - view_cart",
+  "event": "view_cart",
+  "reference": "rKPM_P6.1.1",
+  "category": "Product",
+  "gtm.uniqueEventId": 210
+}
