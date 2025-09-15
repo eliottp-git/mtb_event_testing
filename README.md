@@ -58,3 +58,5 @@ npm start
 ## Example Output
 
 When you run the tool, you'll see something like this:
+
+![Description of your image](https://github.com/eliottp-git/mtb_event_testing/raw/main/example_output.png)
